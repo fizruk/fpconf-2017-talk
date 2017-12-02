@@ -10,7 +10,11 @@ Miso A-Frame — это биндинги к JavaScript-фреймворку A-Fr
 
 В этом демо-проекте показаны основные возможности Miso A-Frame.
 Конечный результат можно посмотреть в
-[`dist/demo.jsexe/index.html`](/miso-aframe-demo/dist/demo.jsexe/index.html).
+`dist/demo.jsexe/index.html`
+([просмотр][miso-aframe-demo-view], [исходный код][miso-aframe-demo-src]).
+
+[miso-aframe-demo-view]: https://fizruk.github.io/fpconf-2017-talk/miso-aframe-demo/dist/demo.jsexe/index.html
+[miso-aframe-demo-src]:  /miso-aframe-demo/dist/demo.jsexe/index.html
 
 ## Системные требования
 

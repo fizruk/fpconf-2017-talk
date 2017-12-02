@@ -10,7 +10,7 @@
 ## Демонстрация A-Frame
 
 Простейшая сцена с использованием A-Frame (своеобразный hello-world)
-доступна в `aframe-demo/index.html` 
+доступна в файле `aframe-demo/index.html` 
 ([просмотр][aframe-demo-view], [исходный код][aframe-demo-src]).
 
 [aframe-demo-view]: https://fizruk.github.io/fpconf-2017-talk/aframe-demo/index.html
@@ -25,3 +25,10 @@
 
 Проект с пошаговой демонстрацией возможностей
 Miso A-Frame доступен в [`miso-aframe-demo`](/miso-aframe-demo).
+
+Конечный результат можно посмотреть в
+`miso-aframe-demo/dist/demo.jsexe/index.html`
+([просмотр][miso-aframe-demo-view], [исходный код][miso-aframe-demo-src]).
+
+[miso-aframe-demo-view]: https://fizruk.github.io/fpconf-2017-talk/miso-aframe-demo/dist/demo.jsexe/index.html
+[miso-aframe-demo-src]:  /miso-aframe-demo/dist/demo.jsexe/index.html
