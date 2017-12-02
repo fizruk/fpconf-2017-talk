@@ -10,7 +10,11 @@
 ## Демонстрация A-Frame
 
 Простейшая сцена с использованием A-Frame (своеобразный hello-world)
-доступна в [`aframe/index.html`](/aframe/index.html).
+доступна в `aframe-demo/index.html` 
+([просмотр][aframe-demo-view], [исходный код][aframe-demo-src]).
+
+[aframe-demo-view]: https://fizruk.github.io/fpconf-2017-talk/aframe-demo/index.html
+[aframe-demo-src]:  /aframe-demo/index.html
 
 ## Демонстрация GHCJS и GHCJSi
 
