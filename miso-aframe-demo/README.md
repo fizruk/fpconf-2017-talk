@@ -2,7 +2,7 @@
 
 Это демонстрационный проект Miso A-Frame.
 
-![Демо Miso + A-Frame.](/images/miso-aframe-demo-screenshot.png)
+[![Демо Miso + A-Frame.](/images/miso-aframe-demo-screenshot.png)][miso-aframe-demo-view]
 
 ## О проекте
 

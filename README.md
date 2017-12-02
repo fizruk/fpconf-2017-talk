@@ -13,10 +13,10 @@
 доступна в файле `aframe-demo/index.html` 
 ([просмотр][aframe-demo-view], [исходный код][aframe-demo-src]).
 
+[![Демо A-Frame.](/images/aframe-demo-screenshot.png)][aframe-demo-view]
+
 [aframe-demo-view]: https://fizruk.github.io/fpconf-2017-talk/aframe-demo/index.html
 [aframe-demo-src]:  /aframe-demo/index.html
-
-![Демо A-Frame.](/images/aframe-demo-screenshot.png)
 
 ## Демонстрация GHCJS и GHCJSi
 
@@ -32,7 +32,7 @@ Miso A-Frame доступен в [`miso-aframe-demo`](/miso-aframe-demo).
 `miso-aframe-demo/dist/demo.jsexe/index.html`
 ([просмотр][miso-aframe-demo-view], [исходный код][miso-aframe-demo-src]).
 
+[![Демо Miso + A-Frame.](/images/miso-aframe-demo-screenshot.png)][miso-aframe-demo-view]
+
 [miso-aframe-demo-view]: https://fizruk.github.io/fpconf-2017-talk/miso-aframe-demo/dist/demo.jsexe/index.html
 [miso-aframe-demo-src]:  /miso-aframe-demo/dist/demo.jsexe/index.html
-
-![Демо Miso + A-Frame.](/images/miso-aframe-demo-screenshot.png)
