@@ -16,6 +16,8 @@
 [aframe-demo-view]: https://fizruk.github.io/fpconf-2017-talk/aframe-demo/index.html
 [aframe-demo-src]:  /aframe-demo/index.html
 
+![Демо A-Frame.](/images/aframe-demo-screenshot.png)
+
 ## Демонстрация GHCJS и GHCJSi
 
 Простейший проект с использованием GHCJS
@@ -32,3 +34,5 @@ Miso A-Frame доступен в [`miso-aframe-demo`](/miso-aframe-demo).
 
 [miso-aframe-demo-view]: https://fizruk.github.io/fpconf-2017-talk/miso-aframe-demo/dist/demo.jsexe/index.html
 [miso-aframe-demo-src]:  /miso-aframe-demo/dist/demo.jsexe/index.html
+
+![Демо Miso + A-Frame.](/images/miso-aframe-demo-screenshot.png)

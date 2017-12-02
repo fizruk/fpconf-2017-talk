@@ -2,6 +2,8 @@
 
 Это демонстрационный проект Miso A-Frame.
 
+![Демо Miso + A-Frame.](/images/miso-aframe-demo-screenshot.png)
+
 ## О проекте
 
 Miso A-Frame — это биндинги к JavaScript-фреймворку A-Frame,
